@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Sarovar Bhandari</h1>
 <h3 align="center">I'm an Associate Software Developer 👨‍💻 and Computer Science Student</h3>
 
-- 🌱 I’m currently learning ** .NET and Databases**
+- 🌱 I’m currently learning **.NET and Databases**
 
 - 📫 Reach me at **sarovar518@gmail.com**
 
